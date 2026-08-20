@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="left">
 <p style="margin:18px 0 0;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:#636c76">Profile · Harness Minimal</p>
 <p style="margin:6px 0 0;font-size:22px;font-weight:600;letter-spacing:-.02em;line-height:1.2">applex250</p>
@@ -22,4 +23,12 @@
 <td width="50%" style="vertical-align:top"><a href="https://github.com/applex250/wang-chengshan-site" style="text-decoration:none;color:inherit"><table style="width:100%;background:rgba(0,0,0,0.04);border:1px solid rgba(0,0,0,0.08);border-radius:18px"><tr><td style="padding:16px"><div style="font-size:14px;font-weight:600">wang-chengshan-site</div><div style="font-size:11px;color:#636c76">applex250</div><div style="margin-top:10px;font-size:11px;color:#636c76">HTML · SCSS · ★ 0</div></td></tr></table></a></td>
 </tr>
 </table>
+=======
+<div align="center">
+    <a href="https://github.com/applex250/github-statistics"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/overview.svg" width="100.00%" /></a>
+    <a href="https://github.com/applex250/rpu"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/repositories/applex250/rpu.svg" width="49.68%" /></a><a href="#"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/spacer.svg" width="0.64%" /></a><a href="https://github.com/applex250/myyolo"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/repositories/applex250/myyolo.svg" width="49.68%" /></a>
+    <a href="https://github.com/applex250/paleo_ai"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/repositories/applex250/paleo_ai.svg" width="49.68%" /></a><a href="#"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/spacer.svg" width="0.64%" /></a><a href="https://github.com/applex250/mtrans"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/repositories/applex250/mtrans.svg" width="49.68%" /></a>
+    <a href="https://github.com/applex250/clawdbot-watchdog"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/repositories/applex250/clawdbot-watchdog.svg" width="49.68%" /></a><a href="#"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/spacer.svg" width="0.64%" /></a><a href="https://github.com/applex250/wang-chengshan-site"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/repositories/applex250/wang-chengshan-site.svg" width="49.68%" /></a>
+    <a href="https://github.com/applex250/github-statistics"><img src="https://cdn.jsdelivr.net/gh/applex250/github-statistics@main/output/footer.svg" width="100.00%" /></a>
+>>>>>>> 64c4489 (style: restore SVG profile (monochrome frosted, site style))
 </div>
